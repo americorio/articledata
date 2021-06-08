@@ -1,0 +1,6 @@
+After getting all the code smells in xml format, with PHPMD (acording to the article)
+1-create a database, and for each app, create 3 tables acording to the script "maketables"
+2-with the script "CodeSmells2DB.php" process the xml to database
+3-with the script "CSLong2CSSurv.php" transform the smells in the survival format
+4-export to csv with the export funcionality of the database (we used mysql)
+ 
