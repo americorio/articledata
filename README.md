@@ -2,6 +2,7 @@
 
 survivalwebapps - article in QUATIC 2019: 
 "Code Smells Survival Analysis in Web Apps"
+[https://link.springer.com/chapter/10.1007%2F978-3-030-29238-6_19](https://link.springer.com/chapter/10.1007%2F978-3-030-29238-6_19)
 
 
 survival_extendend-webapps -article in preprint<br>
