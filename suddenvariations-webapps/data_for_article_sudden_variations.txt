@@ -1,0 +1,3 @@
+data for article
+Detecting sudden variations in web apps code smells’ density: a longitudinal study
+presented in QUATIC 2021
